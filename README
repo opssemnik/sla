@@ -1,0 +1,5 @@
+Repository for the Minecraft Reborn Project
+
+We'll be updating Minecraft's internal engine to a more recent OpenGL version, thus replacing all the old fixed-pipeline function calls to a faster and more stable manner.
+
+foo bar qux
